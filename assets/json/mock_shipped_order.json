@@ -1,0 +1,29 @@
+[
+    {
+        "id": 124,
+        "status": "shipped",
+        "date": "12-09-2020",
+        "customer": "Wisnu Saputra",
+        "distance": 34.0,
+        "product": "Lauk-pauk Ikan 2\n Sayur Kangkung",
+        "total": 3494758
+    },
+    {
+        "id": 124,
+        "status": "shipped",
+        "date": "12-09-2020",
+        "customer": "Wisnu Saputra",
+        "distance": 34.0,
+        "product": "Lauk-pauk Ikan 2\n Sayur Kangkung",
+        "total": 3494758
+    },
+    {
+        "id": 124,
+        "status": "shipped",
+        "date": "12-09-2020",
+        "customer": "Wisnu Saputra",
+        "distance": 34.0,
+        "product": "Lauk-pauk Ikan 2\n Sayur Kangkung",
+        "total": 3494758
+    }
+]
